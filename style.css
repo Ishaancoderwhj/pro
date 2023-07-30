@@ -1,0 +1,23 @@
+body{
+    background-color:darkorchid;
+    color:red;
+}
+.heading{
+    width: 100%;
+    font-size: 35px;
+}
+.random{
+    color:aqua;
+    font-size:25px;
+}
+hr{
+    border-color:black;
+}
+#camera{
+    border:2px dotted rgb(0, 255, 0);
+    width:350px;
+    height:300px;
+}
+#result_object_name,#result_object_accuracy{
+    color:yellow;
+}
